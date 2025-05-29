@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nikhilkumarbhaskar
+- @nikhilkumarbhaskar
   
-- 👀 I’m interested in Web Development
+- Web Developer
   
-- 🌱 I’m currently learning JavaScript
+- currently learning JavaScript
 
-- 📫 How to reach me nikhilbhaskar20@gmail.com 
+- reach me :- nikhilbhaskar20@gmail.com 
 
 <!---
 paarthsaamarth/paarthsaamarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
